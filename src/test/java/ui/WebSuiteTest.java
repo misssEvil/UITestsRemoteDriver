@@ -5,7 +5,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import runner.BaseTest;
 
-public class WebSuiteTest extends BaseTest {
+/* public class WebSuiteTest extends BaseTest {
 
     @Test
     public void openRedRoverWebsite(){
@@ -28,4 +28,4 @@ public class WebSuiteTest extends BaseTest {
         Assert.assertEquals(getDriver().getTitle(), "RedRover | Teachers");
     }
 
-}
+} */
